@@ -1,0 +1,13 @@
+name: Aqualung
+version: ${project.version}
+main: me.rixv.aqualung.Aqualung
+api-version: 1.19
+authors: [ rixV ]
+description: custom aqualungs
+commands:
+  aqualung:
+    aliases:
+      - AQUALUNG
+      - Aqualung
+    description: "Gives you all of the aqualung equipment"
+    usage: "/<command>"

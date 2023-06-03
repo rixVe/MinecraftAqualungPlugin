@@ -1,0 +1,6 @@
+me\rixv\aqualung\ItemManager\ItemManager.class
+me\rixv\aqualung\listeners\PlayerMoveListener.class
+me\rixv\aqualung\listeners\PlayerQuitListener.class
+me\rixv\aqualung\Aqualung.class
+me\rixv\aqualung\commands\AqualungCommand.class
+me\rixv\aqualung\ItemLogicManager\ItemLogicManager.class
